@@ -1,33 +1,76 @@
- 
-<p align="center">### Hi👋 Welcome to my github</p>
- 
-_______________________________________________________________________________________________________________________________________________________________________
- 
- ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966](https://github.com/maxcore1120/maxcore1120/assets/99595213/8b82a041-2e92-4eb4-a05e-993f0edbe997)
- 
-👩‍💻 About Me :
- - 🔭 I’m working as a Full Stack Developer and contributing to frontend and backend for building web & blockchain applications.
- - 🌱 Learning new programming languages and frameworks.
- - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
- 
-🛠️ My Tech Stacks
- 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3044313131373f7374796c653d666c6174266c6f676f3d48544d4c35](https://github.com/maxcore1120/maxcore1120/assets/99595213/31a2621f-8782-4d5e-beef-80a8f3b52a7a)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3044313131373f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236](https://github.com/maxcore1120/maxcore1120/assets/99595213/92bb8b86-017e-4d2e-a78d-b1fb2fab6b09)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3044313131373f7374796c653d666c6174266c6f676f3d6a617661736372697074](https://github.com/maxcore1120/maxcore1120/assets/99595213/38756925-c406-4770-98b8-11edcd5a1781)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a51756572792d3044313131373f7374796c653d666c6174266c6f676f3d6a7175657279](https://github.com/maxcore1120/maxcore1120/assets/99595213/9ccee388-c9ad-430f-8128-07fc5434cbad)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5068702d3044313131373f7374796c653d666c6174266c6f676f3d706870](https://github.com/maxcore1120/maxcore1120/assets/99595213/5365843a-ca19-4610-936f-2e2e757ab870)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d3044313131373f7374796c653d666c6174266c6f676f3d4c61726176656c](https://github.com/maxcore1120/maxcore1120/assets/99595213/643a7061-395f-4339-89bc-d0bca10b354c)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3044313131373f7374796c653d666c6174266c6f676f3d6e6f64652e6a73](https://github.com/maxcore1120/maxcore1120/assets/99595213/380822cf-f0f1-489b-afb8-80b09d375c09)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3044313131373f7374796c653d666c6174266c6f676f3d7265616374](https://github.com/maxcore1120/maxcore1120/assets/99595213/21788670-91cb-4968-9187-0a64cd1e0ba6)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652d3044313131373f7374796c653d666c6174266c6f676f3d7675652e6a73](https://github.com/maxcore1120/maxcore1120/assets/99595213/df4f72d7-4ba2-47ae-8dea-ffa00e2bda98)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d3044313131373f7374796c653d666c6174266c6f676f3d616e67756c6172](https://github.com/maxcore1120/maxcore1120/assets/99595213/547c2541-c105-4404-a672-9baf0ac42679)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3044313131373f7374796c653d666c6174266c6f676f3d706f737467726573716c](https://github.com/maxcore1120/maxcore1120/assets/99595213/b8b5dbd8-a418-4a7b-906d-0b5e0060ce76)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3044313131373f7374796c653d666c6174266c6f676f3d707974686f6e](https://github.com/maxcore1120/maxcore1120/assets/99595213/3b229238-8708-4f13-aed0-6f096b0809c8)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3044313131373f7374796c653d666c6174266c6f676f3d646a616e676f](https://github.com/maxcore1120/maxcore1120/assets/99595213/db4b4b6c-e2da-47b2-9364-d5ecaa7a2f86)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3044313131373f7374796c653d666c6174266c6f676f3d676974](https://github.com/maxcore1120/maxcore1120/assets/99595213/8c12d439-1578-45e3-88f4-84a184958e8d)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3044313131373f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343](https://github.com/maxcore1120/maxcore1120/assets/99595213/37a78af7-3d68-4f47-abce-570965bb7184)
- 
-📊 My Achievements
- 
-![68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4b6173526f75647261267468656d653d6f6e656461726b267469746c653d4d756c74694c616e67756167652c53746172732c436f6d6d69742c466f6c6c6f776572732c5265706f2c5052](https://github.com/maxcore1120/maxcore1120/assets/99595213/2115d811-ac76-4ed5-9344-191aadd507c2)
+<h1 align="center">
+  Hi. Welcome to my github
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<br>
+
+
+### :woman_technologist: About Me :
+    As a full-stack developer, I have gained the ability to understand the unique needs of clients and deliver projects on time.
+  - :telescope: I’m working as a Full Stack Developer and contributing to frontend and backend for building web & blockchain applications.
+
+- :seedling: Learning new programming languages and frameworks.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+<br>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+  ## 🛠️ &nbsp;My Tech Stacks
+
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+  ![JQuery](https://img.shields.io/badge/-JQuery-0D1117?style=flat&logo=jquery)&nbsp;
+  ![Php](https://img.shields.io/badge/-Php-0D1117?style=flat&logo=php)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
+  ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=Laravel)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+  ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+  ![Vue](https://img.shields.io/badge/-Vue-0D1117?style=flat&logo=vue.js)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=flat&logo=angular)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
+  ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## 📊 &nbsp;My Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+
+<div>
+
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/legend524">
+    <img width=450 height=170 align="center" alt="legend524" src="https://github-readme-stats.vercel.app/api?username=legend524&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/legend524">
+    <img align="center" alt="legend524" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legend524&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
+
+![Snake animation](https://raw.githubusercontent.com/roychan0317/roychan0317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg)
