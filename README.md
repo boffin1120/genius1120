@@ -11,7 +11,7 @@
 
     I am a professional web (React.js/React Native/Node.js) and mobile developer with expensive of experience.I have completed a wide range of
 
-projects for 5+ years. As a Software Developer, I constantly provide solutions for users' problems.
+projects for 7+ years. As a Software Developer, I constantly provide solutions for users' problems.
 
 - :telescope: I’m working as a Frontend Developer.
 
